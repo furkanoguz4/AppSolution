@@ -77,7 +77,7 @@ Console.WriteLine(example.GetType());
 // formül : kilo/ boy*boy
 
 Console.WriteLine("Boyunuz :");
-int boy = Convert.ToInt32(Console.ReadLine());
+int     boy = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Kilonuz ");
 int kilo = Convert.ToInt32(Console.ReadLine());
